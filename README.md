@@ -2,6 +2,9 @@
 
 MovieX é um aplicativo de exibição de filmes e vídeos, criado com **Python** e utilizando **Flet**, uma biblioteca para construção de interfaces gráficas, e **Baserow** como banco de dados para armazenar e recuperar informações sobre filmes. A aplicação exibe uma lista de filmes com suas capas e, ao clicar em um filme, exibe o vídeo associado, juntamente com informações adicionais como a sinopse.
 
+![image](https://github.com/user-attachments/assets/557c633e-fb73-4713-8235-198b85c3e8aa)
+
+
 ## 🚀 Funcionalidades
 
 - **Visualização de filmes**: Exibe uma lista de filmes com informações como nome, capa, sinopse e link para o vídeo.
